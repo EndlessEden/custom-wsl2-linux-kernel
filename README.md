@@ -1,3 +1,4 @@
+[![build](https://github.com/EndlessEden/custom-wsl2-linux-kernel/actions/workflows/build.yml/badge.svg)](https://github.com/EndlessEden/custom-wsl2-linux-kernel/actions/workflows/build.yml)
 # Custom WSL2 Linux Kernel
 
 This repository is forked from the excellent [Windows WSL2 Kernel Build Script
